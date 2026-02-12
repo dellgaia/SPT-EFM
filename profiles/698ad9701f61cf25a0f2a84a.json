@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1770923447
+        "UpdateTime": 1770924366
       },
       "Inventory": {
         "items": [
@@ -9330,10 +9330,10 @@
             "Progress": 10
           },
           {
-            "PointsEarnedDuringSession": 10,
-            "LastAccess": 1770923510,
+            "PointsEarnedDuringSession": 17,
+            "LastAccess": 1770924434,
             "Id": "HideoutManagement",
-            "Progress": 2058.8
+            "Progress": 2065.8
           }
         ],
         "Mastering": [
@@ -13896,30 +13896,6 @@
           "value": 0,
           "sourceId": "67296afd6e3127842d3a2e42"
         },
-        "698c7923f0ecdb26a4ea79fd": {
-          "id": "698c7923f0ecdb26a4ea79fd",
-          "type": "CounterCreator",
-          "value": 36,
-          "sourceId": "698c7923f0ecdb26a4ea79f9"
-        },
-        "698c7924f0ecdb26a4ea7a08": {
-          "id": "698c7924f0ecdb26a4ea7a08",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "698c7923f0ecdb26a4ea7a06"
-        },
-        "698c7924f0ecdb26a4ea7a16": {
-          "id": "698c7924f0ecdb26a4ea7a16",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "698c7924f0ecdb26a4ea7a11"
-        },
-        "698c7924f0ecdb26a4ea7a23": {
-          "id": "698c7924f0ecdb26a4ea7a23",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "698c7924f0ecdb26a4ea7a1f"
-        },
         "675c1c87caddcfa893af10e9": {
           "id": "675c1c87caddcfa893af10e9",
           "type": "LeaveItemAtLocation",
@@ -15527,9 +15503,9 @@
         "Production": {
           "5d5c205bd582a50d042a3c0e": {
             "Products": [],
-            "Progress": 105723,
+            "Progress": 107652,
             "inProgress": true,
-            "StartTimestamp": 1770923510,
+            "StartTimestamp": 1770924946,
             "SkipTime": 0,
             "ProductionTime": 144960,
             "GivenItemsInStart": [],
@@ -15625,8 +15601,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 74.7932,
-                        "UnitsConsumed": 5.2068
+                        "Value": 74.4164,
+                        "UnitsConsumed": 5.5836
                       }
                     }
                   }
@@ -15882,8 +15858,8 @@
                     "upd": {
                       "StackObjectsCount": 1,
                       "Resource": {
-                        "Value": 120.7352,
-                        "UnitsConsumed": 69.2572
+                        "Value": 117.6864,
+                        "UnitsConsumed": 2.3074
                       }
                     }
                   }
@@ -16283,7 +16259,7 @@
         "HideoutCounters": null,
         "Seed": "490b6d6838e12c83c530d87882ab4fe9",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1770923510,
+        "sptUpdateLastRunTimestamp": 1770924946,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -21070,58 +21046,11 @@
         ]
       },
       "RagfairInfo": {
-        "rating": 2.1655333999999997,
-        "isRatingGrowing": true,
-        "offers": [
-          {
-            "sellResult": [],
-            "_id": "698cdce17d37d81ff0e65b87",
-            "items": [
-              {
-                "_id": "698ada141f61cf25a0f2a903",
-                "_tpl": "5d1b371186f774253763a656",
-                "parentId": "hideout",
-                "slotId": "hideout",
-                "upd": {
-                  "StackObjectsCount": 1,
-                  "SpawnedInSession": false,
-                  "Resource": {
-                    "Value": 23.2489,
-                    "UnitsConsumed": 6.7511
-                  }
-                }
-              }
-            ],
-            "requirements": [
-              {
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "count": 49999,
-                "onlyFunctional": false
-              }
-            ],
-            "root": "698ada141f61cf25a0f2a903",
-            "intId": 941477,
-            "itemsCost": 50000,
-            "requirementsCost": 49999,
-            "startTime": 1770839265,
-            "endTime": 1770882465,
-            "sellInOnePiece": false,
-            "summaryCost": 49999,
-            "user": {
-              "id": "698ad9701f61cf25a0f2a84a",
-              "nickname": "DoesDatWombWork",
-              "rating": 2.1129340399999994,
-              "memberType": 1026,
-              "selectedMemberCategory": 1024,
-              "isRatingGrowing": true,
-              "aid": 1875845
-            },
-            "loyaltyLevel": 1,
-            "locked": false,
-            "quantity": 1
-          }
-        ],
-        "sellSum": 11687351
+        "rating": 2.1355334,
+        "isRatingGrowing": false,
+        "offers": [],
+        "sellSum": 11687351,
+        "notSellSum": 49999
       },
       "Achievements": {
         "655b49bc91aa9e07687ae47c": 1770774897,
@@ -33893,8 +33822,8 @@
       "_id": "5935c25fb3acc3127c3d8cd9"
     },
     "5ac3b934156ae10c4430e83c": {
-      "attachmentsNew": 0,
-      "new": 0,
+      "attachmentsNew": 1,
+      "new": 1,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -35631,6 +35560,36 @@
           "items": {
             "stash": "698cfa2a520995634c74c580",
             "data": []
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "698e2aa1c89b212f78fd8a8b",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1770924705,
+          "templateId": "5bdabfe486f7743e1665df6e 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "698e2aa1c89b212f78fd8a89",
+            "data": [
+              {
+                "_id": "698e2aa1c89b212f78fd8a8c",
+                "_tpl": "5d1b371186f774253763a656",
+                "parentId": "698e2aa1c89b212f78fd8a89",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": false,
+                  "Resource": {
+                    "Value": 23.2489,
+                    "UnitsConsumed": 6.7511
+                  }
+                }
+              }
+            ]
           },
           "maxStorageTime": 259200
         }
