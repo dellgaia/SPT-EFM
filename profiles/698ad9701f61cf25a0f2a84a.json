@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1770924366
+        "UpdateTime": 1770925223
       },
       "Inventory": {
         "items": [
@@ -15503,9 +15503,9 @@
         "Production": {
           "5d5c205bd582a50d042a3c0e": {
             "Products": [],
-            "Progress": 107652,
+            "Progress": 108461,
             "inProgress": true,
-            "StartTimestamp": 1770924946,
+            "StartTimestamp": 1770925552,
             "SkipTime": 0,
             "ProductionTime": 144960,
             "GivenItemsInStart": [],
@@ -15601,8 +15601,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 74.4164,
-                        "UnitsConsumed": 5.5836
+                        "Value": 74.2577,
+                        "UnitsConsumed": 5.7423
                       }
                     }
                   }
@@ -15858,8 +15858,8 @@
                     "upd": {
                       "StackObjectsCount": 1,
                       "Resource": {
-                        "Value": 117.6864,
-                        "UnitsConsumed": 2.3074
+                        "Value": 116.4,
+                        "UnitsConsumed": 3.5952
                       }
                     }
                   }
@@ -16259,7 +16259,7 @@
         "HideoutCounters": null,
         "Seed": "490b6d6838e12c83c530d87882ab4fe9",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1770924946,
+        "sptUpdateLastRunTimestamp": 1770925552,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
