@@ -63,7 +63,7 @@
           "Maximum": 100
         },
         "Energy": {
-          "Current": 110,
+          "Current": 90,
           "Maximum": 110
         },
         "Temperature": {
@@ -121,7 +121,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1771533794
+        "UpdateTime": 1771534840
       },
       "Inventory": {
         "items": [
@@ -9886,7 +9886,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 4234229
+              "StackObjectsCount": 4163310
             }
           },
           {
@@ -10178,6 +10178,38 @@
             "upd": {
               "StackObjectsCount": 300
             }
+          },
+          {
+            "_id": "69977ac81d44c773bc20ef4a",
+            "_tpl": "59faff1d86f7746c51718c9c",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 4,
+              "y": 14,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "69977bc61d44c773bc213ca9",
+            "_tpl": "575146b724597720a27126d5",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 2,
+              "y": 22,
+              "rotation": true,
+              "r": "Vertical"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
           }
         ],
         "equipment": "698ada141f61cf25a0f2a84c",
@@ -10218,70 +10250,70 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0.09781948,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1771446517,
             "Id": "Endurance",
             "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 4.328705,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1771446224,
             "Id": "Strength",
             "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 287.003174,
-            "LastAccess": 1771519383,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535027,
             "Id": "Vitality",
-            "Progress": 1215.09131
+            "Progress": 1635.09131
           },
           {
-            "PointsEarnedDuringSession": 105.000076,
-            "LastAccess": 1771519359,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535025,
             "Id": "Health",
-            "Progress": 1106.08765
+            "Progress": 1386.08765
           },
           {
-            "PointsEarnedDuringSession": 124.910507,
-            "LastAccess": 1771519359,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535030,
             "Id": "StressResistance",
-            "Progress": 693.320251
+            "Progress": 861.471252
           },
           {
-            "PointsEarnedDuringSession": 147.005875,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1771519375,
             "Id": "Metabolism",
-            "Progress": 1049.27246
+            "Progress": 1084.27246
           },
           {
-            "PointsEarnedDuringSession": 36.004097,
-            "LastAccess": 1771446471,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535018,
             "Id": "Immunity",
-            "Progress": 782.643738
+            "Progress": 815.68335
           },
           {
-            "PointsEarnedDuringSession": 84.47391,
-            "LastAccess": 1771519337,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535038,
             "Id": "Perception",
-            "Progress": 979.907043
+            "Progress": 1315.907
           },
           {
-            "PointsEarnedDuringSession": 323.7312,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1771519383,
             "Id": "Intellect",
-            "Progress": 805.338135
+            "Progress": 867.560364
           },
           {
-            "PointsEarnedDuringSession": 181.925125,
-            "LastAccess": 1771519339,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771534998,
             "Id": "Attention",
-            "Progress": 978.1819
+            "Progress": 1069.18188
           },
           {
-            "PointsEarnedDuringSession": 4.074756E-07,
-            "LastAccess": 1771446543,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535316,
             "Id": "Charisma",
-            "Progress": 860.7828
+            "Progress": 976.714468
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -10290,112 +10322,112 @@
             "Progress": 300
           },
           {
-            "PointsEarnedDuringSession": 286.666656,
-            "LastAccess": 1771519379,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771534989,
             "Id": "Revolver",
-            "Progress": 286.666656
+            "Progress": 620
           },
           {
-            "PointsEarnedDuringSession": 0.005584554,
-            "LastAccess": 1771446127,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771534977,
             "Id": "SMG",
-            "Progress": 200.021042
+            "Progress": 365.015778
           },
           {
-            "PointsEarnedDuringSession": 182.000488,
-            "LastAccess": 1771519375,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535034,
             "Id": "Assault",
-            "Progress": 1107.79443
+            "Progress": 1317.79443
           },
           {
-            "PointsEarnedDuringSession": 0.000164696088,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1771445382,
             "Id": "Shotgun",
             "Progress": 0.00186106586
           },
           {
-            "PointsEarnedDuringSession": 210.000275,
-            "LastAccess": 1771519331,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535034,
             "Id": "Sniper",
-            "Progress": 2160.38843
+            "Progress": 2440.38843
           },
           {
-            "PointsEarnedDuringSession": 1.16341221E-08,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1771446029,
             "Id": "LMG",
             "Progress": 190
           },
           {
             "PointsEarnedDuringSession": 0,
-            "LastAccess": 0,
+            "LastAccess": 1771534971,
             "Id": "HMG",
-            "Progress": 0
-          },
-          {
-            "PointsEarnedDuringSession": 286.666656,
-            "LastAccess": 1771519335,
-            "Id": "Launcher",
             "Progress": 286.666656
           },
           {
-            "PointsEarnedDuringSession": 189.973038,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771534987,
+            "Id": "Launcher",
+            "Progress": 480
+          },
+          {
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1771519364,
             "Id": "AttachedLauncher",
             "Progress": 190.032745
           },
           {
-            "PointsEarnedDuringSession": 164.335571,
-            "LastAccess": 1771519364,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771534975,
             "Id": "Throwing",
-            "Progress": 541.331665
+            "Progress": 669.7129
           },
           {
-            "PointsEarnedDuringSession": 0.00141128153,
-            "LastAccess": 1771446272,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535000,
             "Id": "Melee",
-            "Progress": 21.3779469
+            "Progress": 293.792664
           },
           {
-            "PointsEarnedDuringSession": 0.00101864361,
-            "LastAccess": 1771446454,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535036,
             "Id": "DMR",
-            "Progress": 253.906616
+            "Progress": 335.429962
           },
           {
-            "PointsEarnedDuringSession": 107.714577,
-            "LastAccess": 1771519335,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535040,
             "Id": "AimDrills",
-            "Progress": 793.0178
+            "Progress": 1000.41431
           },
           {
-            "PointsEarnedDuringSession": 0.0003426501,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1771445620,
             "Id": "TroubleShooting",
             "Progress": 41.1392326
           },
           {
-            "PointsEarnedDuringSession": 325.449036,
-            "LastAccess": 1771519381,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535023,
             "Id": "Surgery",
-            "Progress": 1210.7229
+            "Progress": 1315.7229
           },
           {
-            "PointsEarnedDuringSession": 285.522064,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1771519339,
             "Id": "CovertMovement",
             "Progress": 287.239075
           },
           {
-            "PointsEarnedDuringSession": 0.00603722362,
-            "LastAccess": 1771446486,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535027,
             "Id": "Search",
-            "Progress": 618.6221
+            "Progress": 803.372742
           },
           {
-            "PointsEarnedDuringSession": 214.083191,
-            "LastAccess": 1771519366,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771534994,
             "Id": "MagDrills",
-            "Progress": 844.2112
+            "Progress": 989.790039
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -10410,16 +10442,16 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 150.860962,
-            "LastAccess": 1771519333,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771534971,
             "Id": "LightVests",
-            "Progress": 769.0501
+            "Progress": 834.7112
           },
           {
-            "PointsEarnedDuringSession": 138.092453,
-            "LastAccess": 1771519321,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535002,
             "Id": "HeavyVests",
-            "Progress": 422.861359
+            "Progress": 619.1867
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -10434,10 +10466,10 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 420.000153,
-            "LastAccess": 1771519371,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771535038,
             "Id": "WeaponTreatment",
-            "Progress": 2366.4
+            "Progress": 2842.4
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -10464,16 +10496,16 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 214.990143,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1771520115,
             "Id": "Crafting",
             "Progress": 395.013855
           },
           {
-            "PointsEarnedDuringSession": 1350.00012,
-            "LastAccess": 1771533821,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1771534996,
             "Id": "HideoutManagement",
-            "Progress": 4426.8
+            "Progress": 5100
           }
         ],
         "Mastering": [
@@ -15543,23 +15575,19 @@
         {
           "tid": "54cb57776803fa99248b456e",
           "itemId": "698cc7747d37d81ff0d545a0"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "69977814c808b072f833b5b9"
         }
       ],
       "Hideout": {
         "Production": {
           "5d5c205bd582a50d042a3c0e": {
-            "Products": [
-              {
-                "_id": "699775e9c808b072f8330987",
-                "_tpl": "59faff1d86f7746c51718c9c",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              }
-            ],
-            "Progress": 9313,
+            "Products": [],
+            "Progress": 13229,
             "inProgress": true,
-            "StartTimestamp": 1771534476,
+            "StartTimestamp": 1771535779,
             "SkipTime": 0,
             "ProductionTime": 144960,
             "GivenItemsInStart": [],
@@ -15662,8 +15690,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 46.4379,
-                        "UnitsConsumed": 3.5621
+                        "Value": 46.2167,
+                        "UnitsConsumed": 3.7833
                       }
                     }
                   }
@@ -15886,8 +15914,8 @@
                     "upd": {
                       "StackObjectsCount": 1,
                       "Resource": {
-                        "Value": 36.473,
-                        "UnitsConsumed": 3.527
+                        "Value": 34.1288,
+                        "UnitsConsumed": 5.8712
                       }
                     }
                   }
@@ -16744,7 +16772,7 @@
         "HideoutCounters": null,
         "Seed": "490b6d6838e12c83c530d87882ab4fe9",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1771534476,
+        "sptUpdateLastRunTimestamp": 1771535779,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -21625,7 +21653,7 @@
         },
         "54cb57776803fa99248b456e": {
           "loyaltyLevel": 4,
-          "salesSum": 19662809,
+          "salesSum": 19664677,
           "standing": 1.42,
           "nextResupply": 1770710866,
           "unlocked": true,
