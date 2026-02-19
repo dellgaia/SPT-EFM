@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1771533841
+        "UpdateTime": 1771535657
       },
       "Inventory": {
         "items": [
@@ -1009,7 +1009,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 8387955
+              "StackObjectsCount": 8377691
             }
           },
           {
@@ -7349,11 +7349,11 @@
           },
           {
             "_id": "63db64cbf9963741dc0d741f",
-            "_tpl": "6401c7b213d9b818bf0e7dd7"
+            "_tpl": "64381b582bb1c5dedd0fc925"
           },
           {
             "_id": "640b2d867f4185aa520d08ba",
-            "_tpl": "6401c7b213d9b818bf0e7dd7"
+            "_tpl": "64381b582bb1c5dedd0fc925"
           },
           {
             "_id": "698e57bb764b25751459ec6f",
@@ -8611,6 +8611,26 @@
           {
             "_id": "664115f68b8ae85875060b3a",
             "_tpl": "5963866286f7747bf429b572"
+          },
+          {
+            "_id": "5d494a295b56502f18c98a08",
+            "_tpl": "63dbd45917fff4dee40fe16e"
+          },
+          {
+            "_id": "65e5bb1713227bb7690cea0a",
+            "_tpl": "65e5957613227bb7690ce9f6"
+          },
+          {
+            "_id": "69977a921d44c773bc20df72",
+            "_tpl": "55d7217a4bdc2d86028b456d",
+            "parentId": "65e5bb1713227bb7690cea0a",
+            "slotId": "Stand1"
+          },
+          {
+            "_id": "69977a921d44c773bc20df73",
+            "_tpl": "65e080be269cbd5c5005e529",
+            "parentId": "69977a921d44c773bc20df72",
+            "slotId": "Pockets"
           }
         ],
         "equipment": "698bda557960a05128af3279",
@@ -8621,7 +8641,9 @@
         "hideoutAreaStashes": {
           "27": "66c903b7cbd137db330413a2",
           "24": "63db64cbf9963741dc0d741f",
-          "25": "640b2d867f4185aa520d08ba"
+          "25": "640b2d867f4185aa520d08ba",
+          "16": "5d494a295b56502f18c98a08",
+          "26": "65e5bb1713227bb7690cea0a"
         },
         "fastPanel": {
           "Item6": "698bda557960a05128af32fd",
@@ -8706,10 +8728,10 @@
             "Progress": 646.7578
           },
           {
-            "PointsEarnedDuringSession": 2.6714344,
-            "LastAccess": 1770940748,
+            "PointsEarnedDuringSession": 2.6814343999999997,
+            "LastAccess": 1771535286,
             "Id": "Charisma",
-            "Progress": 400.56
+            "Progress": 400.57
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -8898,10 +8920,10 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 4,
-            "LastAccess": 1771533851,
+            "PointsEarnedDuringSession": 214,
+            "LastAccess": 1771534998,
             "Id": "HideoutManagement",
-            "Progress": 1475
+            "Progress": 1685
           }
         ],
         "Mastering": [
@@ -14498,6 +14520,10 @@
         {
           "tid": "54cb57776803fa99248b456e",
           "itemId": "698d2966520995634c950d39"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "698d0721520995634c7ea613"
         }
       ],
       "Hideout": {
@@ -14545,11 +14571,11 @@
           },
           {
             "type": 4,
-            "level": 2,
+            "level": 3,
             "active": false,
             "passiveBonusesEnabled": true,
-            "completeTime": 1770941710,
-            "constructing": true,
+            "completeTime": 0,
+            "constructing": false,
             "slots": [
               {
                 "locationIndex": 0,
@@ -14653,8 +14679,8 @@
             "level": 2,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 0,
-            "constructing": false,
+            "completeTime": 1771540778,
+            "constructing": true,
             "slots": [
               {
                 "locationIndex": 0
@@ -14714,21 +14740,21 @@
           },
           {
             "type": 11,
-            "level": 1,
+            "level": 2,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 1770938094,
+            "completeTime": 1771543661,
             "constructing": true,
             "slots": [],
             "lastRecipe": ""
           },
           {
             "type": 12,
-            "level": 2,
+            "level": 3,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 1770944567,
-            "constructing": true,
+            "completeTime": 0,
+            "constructing": false,
             "slots": [],
             "lastRecipe": ""
           },
@@ -14747,8 +14773,8 @@
             "level": 0,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 0,
-            "constructing": false,
+            "completeTime": 1771563811,
+            "constructing": true,
             "slots": [],
             "lastRecipe": ""
           },
@@ -14764,10 +14790,10 @@
           },
           {
             "type": 16,
-            "level": 0,
+            "level": 1,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 1770940263,
+            "completeTime": 1771541511,
             "constructing": true,
             "slots": [],
             "lastRecipe": ""
@@ -14777,8 +14803,8 @@
             "level": 0,
             "active": true,
             "passiveBonusesEnabled": false,
-            "completeTime": 0,
-            "constructing": false,
+            "completeTime": 1771552316,
+            "constructing": true,
             "slots": [
               {
                 "locationIndex": 0
@@ -14803,8 +14829,8 @@
             "level": 0,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 0,
-            "constructing": false,
+            "completeTime": 1771560928,
+            "constructing": true,
             "slots": [],
             "lastRecipe": ""
           },
@@ -14823,8 +14849,8 @@
             "level": 0,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 0,
-            "constructing": false,
+            "completeTime": 1771547255,
+            "constructing": true,
             "slots": [
               {
                 "locationIndex": 0
@@ -15001,26 +15027,6 @@
           },
           {
             "type": 23,
-            "level": 0,
-            "active": true,
-            "passiveBonusesEnabled": true,
-            "completeTime": 1770937385,
-            "constructing": true,
-            "slots": [],
-            "lastRecipe": ""
-          },
-          {
-            "type": 24,
-            "level": 1,
-            "active": true,
-            "passiveBonusesEnabled": true,
-            "completeTime": 1770942411,
-            "constructing": true,
-            "slots": [],
-            "lastRecipe": ""
-          },
-          {
-            "type": 25,
             "level": 1,
             "active": true,
             "passiveBonusesEnabled": true,
@@ -15030,11 +15036,31 @@
             "lastRecipe": ""
           },
           {
-            "type": 26,
-            "level": 0,
+            "type": 24,
+            "level": 2,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 1770938098,
+            "completeTime": 1771543664,
+            "constructing": true,
+            "slots": [],
+            "lastRecipe": ""
+          },
+          {
+            "type": 25,
+            "level": 2,
+            "active": true,
+            "passiveBonusesEnabled": true,
+            "completeTime": 0,
+            "constructing": false,
+            "slots": [],
+            "lastRecipe": ""
+          },
+          {
+            "type": 26,
+            "level": 1,
+            "active": true,
+            "passiveBonusesEnabled": true,
+            "completeTime": 1771539347,
             "constructing": true,
             "slots": [],
             "lastRecipe": ""
@@ -15056,7 +15082,7 @@
         "HideoutCounters": null,
         "Seed": "f5f04567ec4a35108422ba247c5f51b7",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1771534476,
+        "sptUpdateLastRunTimestamp": 1771535810,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -19058,7 +19084,7 @@
         },
         "54cb57776803fa99248b456e": {
           "loyaltyLevel": 4,
-          "salesSum": 369354,
+          "salesSum": 379618,
           "standing": 1.26,
           "nextResupply": 1770777606,
           "unlocked": true,
@@ -21512,6 +21538,77 @@
           "visible": true,
           "value": 12,
           "skillType": 0
+        },
+        {
+          "id": "64f5b9e5fa34f11b380756b8",
+          "type": "AdditionalSlots",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 2,
+          "icon": "/files/Hideout/icon_hideout_fuelslots.png",
+          "filter": [
+            "5d1b371186f774253763a656",
+            "5d1b36a186f7742523398433"
+          ]
+        },
+        {
+          "id": "64f5b9e5fa34f11b380756ef",
+          "type": "QuestMoneyReward",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 10
+        },
+        {
+          "id": "64f5b9e5fa34f11b380756f0",
+          "type": "InsuranceReturnTime",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -20
+        },
+        {
+          "id": "64f5b9e5fa34f11b3807570e",
+          "type": "SkillGroupLevelingBoost",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 10,
+          "skillType": 1
+        },
+        {
+          "id": "6548ae1b0d23be12146d70ee",
+          "type": "SkillGroupLevelingBoost",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 0,
+          "skillType": 1
+        },
+        {
+          "id": "6548afcae28f7800b02d2004",
+          "type": "TextBonus",
+          "value": 3,
+          "icon": "/files/Hideout/EfT_UI_Icons_DogTag.png"
+        },
+        {
+          "id": "6548afd9eb937c71d7776652",
+          "type": "TextBonus",
+          "value": 6,
+          "icon": "/files/Hideout/EfT_UI_Icons_SmallTrophy.png"
+        },
+        {
+          "id": "6548afe3e7726b6d1b4317d5",
+          "type": "TextBonus",
+          "value": 6,
+          "icon": "/files/Hideout/EfT_UI_Icons_BigTrophy.png"
+        },
+        {
+          "id": "6698e6d817b8f677b3077ef0",
+          "type": "TextBonus",
+          "value": 1,
+          "icon": "/files/Hideout/Icon_Preset-stand_Mannequin_Small.png"
         }
       ],
       "Notes": {
