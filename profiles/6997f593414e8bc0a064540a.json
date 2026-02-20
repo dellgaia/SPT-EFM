@@ -14043,7 +14043,7 @@
         "Production": {
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 3051,
+            "Progress": 3434,
             "inProgress": true,
             "StartTimestamp": 1771570936,
             "SkipTime": 0,
@@ -14347,8 +14347,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 98.1509,
-                        "UnitsConsumed": 1.8491
+                        "Value": 97.9097,
+                        "UnitsConsumed": 2.0903
                       }
                     }
                   }
@@ -14803,7 +14803,7 @@
         "HideoutCounters": null,
         "Seed": "447c67158483e859bd5fa09d4872cbaa",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1771573987,
+        "sptUpdateLastRunTimestamp": 1771574370,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
