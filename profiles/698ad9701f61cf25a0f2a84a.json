@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 78,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 57,
+          "Current": 110,
           "Maximum": 110
         },
         "Temperature": {
@@ -121,7 +121,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1771539445
+        "UpdateTime": 1771614647
       },
       "Inventory": {
         "items": [
@@ -10372,6 +10372,38 @@
           {
             "_id": "664115f68b8ae85875060b3a",
             "_tpl": "5963866286f7747bf429b572"
+          },
+          {
+            "_id": "6998b28d414e8bc0a08aa16e",
+            "_tpl": "59faff1d86f7746c51718c9c",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 7,
+              "y": 19,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6998b28d414e8bc0a08aa16f",
+            "_tpl": "59faff1d86f7746c51718c9c",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 8,
+              "y": 19,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
           }
         ],
         "equipment": "698ada141f61cf25a0f2a84c",
@@ -10662,8 +10694,8 @@
             "Progress": 395.733215
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1771534996,
+            "PointsEarnedDuringSession": 1,
+            "LastAccess": 1771614654,
             "Id": "HideoutManagement",
             "Progress": 5100
           }
@@ -16019,10 +16051,6 @@
           "itemId": "699331f376024409e4c04632"
         },
         {
-          "tid": "54cb57776803fa99248b456e",
-          "itemId": "698e5f86764b25751461328c"
-        },
-        {
           "tid": "54cb50c76803fa8b248b4571",
           "itemId": "699355e254c67259c4d07342"
         },
@@ -16231,9 +16259,9 @@
         "Production": {
           "5d5c205bd582a50d042a3c0e": {
             "Products": [],
-            "Progress": 24615,
+            "Progress": 33678,
             "inProgress": true,
-            "StartTimestamp": 1771539571,
+            "StartTimestamp": 1771615131,
             "SkipTime": 0,
             "ProductionTime": 144960,
             "GivenItemsInStart": [],
@@ -16336,8 +16364,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 45.6065,
-                        "UnitsConsumed": 4.3935
+                        "Value": 33.1465,
+                        "UnitsConsumed": 6.8535
                       }
                     }
                   }
@@ -17418,7 +17446,7 @@
         "HideoutCounters": null,
         "Seed": "490b6d6838e12c83c530d87882ab4fe9",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1771539571,
+        "sptUpdateLastRunTimestamp": 1771615131,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -22392,6 +22420,30 @@
           "nextResupply": 1770711439,
           "unlocked": true,
           "disabled": false
+        },
+        "678937229797bd983dca2137": {
+          "loyaltyLevel": 4,
+          "salesSum": 0,
+          "standing": 0.2,
+          "nextResupply": 1771615655,
+          "unlocked": false,
+          "disabled": false
+        },
+        "6789373b0f5ecebf0bc152d5": {
+          "loyaltyLevel": 4,
+          "salesSum": 0,
+          "standing": 0.2,
+          "nextResupply": 1771617400,
+          "unlocked": true,
+          "disabled": false
+        },
+        "6789374aebcb3ad4c6e073bd": {
+          "loyaltyLevel": 4,
+          "salesSum": 0,
+          "standing": 0.2,
+          "nextResupply": 1771616269,
+          "unlocked": true,
+          "disabled": false
         }
       },
       "UnlockedInfo": {
@@ -22422,147 +22474,11 @@
         ]
       },
       "RagfairInfo": {
-        "rating": 2847.480965808082,
-        "isRatingGrowing": true,
-        "offers": [
-          {
-            "sellResult": [],
-            "_id": "6997408780b0aa5e7ca7dc0f",
-            "items": [
-              {
-                "_id": "6993485e54c67259c4c58bec",
-                "_tpl": "67409848d0b2f8eb9b034db9",
-                "parentId": "hideout",
-                "slotId": "hideout",
-                "upd": {
-                  "StackObjectsCount": 16,
-                  "SpawnedInSession": true
-                }
-              }
-            ],
-            "requirements": [
-              {
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "count": 59279,
-                "onlyFunctional": false
-              }
-            ],
-            "root": "6993485e54c67259c4c58bec",
-            "intId": 132285,
-            "itemsCost": 52000,
-            "requirementsCost": 59279,
-            "startTime": 1771520135,
-            "endTime": 1771563335,
-            "sellInOnePiece": false,
-            "summaryCost": 59279,
-            "user": {
-              "id": "698ad9701f61cf25a0f2a84a",
-              "nickname": "DoesDatWombWork",
-              "rating": 1026.688022058085,
-              "memberType": 1026,
-              "selectedMemberCategory": 1024,
-              "isRatingGrowing": false,
-              "aid": 1875845
-            },
-            "loyaltyLevel": 1,
-            "locked": false,
-            "quantity": 7
-          },
-          {
-            "sellResult": [],
-            "_id": "699742e980b0aa5e7ca8b273",
-            "items": [
-              {
-                "_id": "69961b2dffa23d2554365a4c",
-                "_tpl": "5ad5db3786f7743568421cce",
-                "parentId": "hideout",
-                "slotId": "hideout",
-                "upd": {
-                  "StackObjectsCount": 1,
-                  "SpawnedInSession": true,
-                  "Key": {
-                    "NumberOfUsages": 0
-                  }
-                }
-              }
-            ],
-            "requirements": [
-              {
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "count": 67696,
-                "onlyFunctional": false
-              }
-            ],
-            "root": "69961b2dffa23d2554365a4c",
-            "intId": 151087,
-            "itemsCost": 54009,
-            "requirementsCost": 67696,
-            "startTime": 1771520745,
-            "endTime": 1771563945,
-            "sellInOnePiece": false,
-            "summaryCost": 67696,
-            "user": {
-              "id": "698ad9701f61cf25a0f2a84a",
-              "nickname": "DoesDatWombWork",
-              "rating": 2826.9159658080825,
-              "memberType": 1026,
-              "selectedMemberCategory": 1024,
-              "isRatingGrowing": true,
-              "aid": 1875845
-            },
-            "loyaltyLevel": 1,
-            "locked": false,
-            "quantity": 1
-          },
-          {
-            "sellResult": [],
-            "_id": "699742f680b0aa5e7ca8b27a",
-            "items": [
-              {
-                "_id": "69961b2dffa23d2554365f75",
-                "_tpl": "61a6444b8c141d68246e2d2f",
-                "parentId": "hideout",
-                "slotId": "hideout",
-                "upd": {
-                  "StackObjectsCount": 1,
-                  "SpawnedInSession": true,
-                  "Key": {
-                    "NumberOfUsages": 0
-                  }
-                }
-              }
-            ],
-            "requirements": [
-              {
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "count": 31806,
-                "onlyFunctional": false
-              }
-            ],
-            "root": "69961b2dffa23d2554365f75",
-            "intId": 151090,
-            "itemsCost": 18138,
-            "requirementsCost": 31806,
-            "startTime": 1771520758,
-            "endTime": 1771563958,
-            "sellInOnePiece": false,
-            "summaryCost": 31806,
-            "user": {
-              "id": "698ad9701f61cf25a0f2a84a",
-              "nickname": "DoesDatWombWork",
-              "rating": 2829.0299658080826,
-              "memberType": 1026,
-              "selectedMemberCategory": 1024,
-              "isRatingGrowing": true,
-              "aid": 1875845
-            },
-            "loyaltyLevel": 1,
-            "locked": false,
-            "quantity": 1
-          }
-        ],
+        "rating": 2847.3909658080815,
+        "isRatingGrowing": false,
+        "offers": [],
         "sellSum": 48485771,
-        "notSellSum": 20136678
+        "notSellSum": 20295459
       },
       "Achievements": {
         "655b49bc91aa9e07687ae47c": 1770774897,
@@ -25257,7 +25173,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1771606274,
+        "nextResetTime": 1771692674,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -27244,8 +27160,8 @@
   },
   "dialogues": {
     "686eea254af06fe1f89b528a": {
-      "attachmentsNew": 0,
-      "new": 0,
+      "attachmentsNew": 1,
+      "new": 1,
       "type": 1,
       "Users": [
         {
@@ -27282,6 +27198,87 @@
           "hasRewards": false,
           "rewardCollected": true,
           "items": {},
+          "maxStorageTime": 172800
+        },
+        {
+          "_id": "6998b22c414e8bc0a08a7c26",
+          "uid": "686eea254af06fe1f89b528a",
+          "type": 13,
+          "dt": 1771614764,
+          "text": "[SYSTEM NOTICE]\r\n-> Status: ACTIVE\r\n    WTT Armory Installation: DETECTED\r\n    Initializing Welcome Protocol...\r\n-> Status: DEPLOYING...\r\n    Dispensing Complimentary Item...\r\n-> Status: COMPLETE\r\n    User Input: NOT REQUIRED",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "6998b22c414e8bc0a08a7c27",
+            "data": [
+              {
+                "_id": "6998b22c414e8bc0a08a7c28",
+                "_tpl": "679f2453d1970258c1df3fce",
+                "parentId": "6998b22c414e8bc0a08a7c27",
+                "slotId": "main",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  }
+                }
+              },
+              {
+                "_id": "6998b22c414e8bc0a08a7c29",
+                "_tpl": "679f24d15ff75ca48f6462a2",
+                "parentId": "6998b22c414e8bc0a08a7c28",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "6998b22c414e8bc0a08a7c2a",
+                "_tpl": "679f24e723451339c041f28d",
+                "parentId": "6998b22c414e8bc0a08a7c28",
+                "slotId": "mod_reciever"
+              },
+              {
+                "_id": "6998b22c414e8bc0a08a7c2b",
+                "_tpl": "679f24e0434b197ed7a10468",
+                "parentId": "6998b22c414e8bc0a08a7c28",
+                "slotId": "mod_pistolgrip"
+              },
+              {
+                "_id": "6998b22c414e8bc0a08a7c2c",
+                "_tpl": "679f24edc0aba3ffa139b03f",
+                "parentId": "6998b22c414e8bc0a08a7c28",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "6998b22c414e8bc0a08a7c2d",
+                "_tpl": "679f24edc0aba3ffa139b03f",
+                "parentId": "6998b22c414e8bc0a08a7c27",
+                "slotId": "main"
+              },
+              {
+                "_id": "6998b22c414e8bc0a08a7c2e",
+                "_tpl": "679f24edc0aba3ffa139b03f",
+                "parentId": "6998b22c414e8bc0a08a7c27",
+                "slotId": "main"
+              },
+              {
+                "_id": "6998b22c414e8bc0a08a7c2f",
+                "_tpl": "657025a4bfc87b3a34093250",
+                "parentId": "6998b22c414e8bc0a08a7c27",
+                "slotId": "main"
+              },
+              {
+                "_id": "6998b22c414e8bc0a08a7c30",
+                "_tpl": "58864a4f2459770fcc257101",
+                "parentId": "6998b22c414e8bc0a08a7c2f",
+                "slotId": "cartridges",
+                "upd": {
+                  "StackObjectsCount": 50
+                }
+              }
+            ]
+          },
           "maxStorageTime": 172800
         }
       ],
@@ -34883,8 +34880,8 @@
       "_id": "5935c25fb3acc3127c3d8cd9"
     },
     "5ac3b934156ae10c4430e83c": {
-      "attachmentsNew": 0,
-      "new": 0,
+      "attachmentsNew": 3,
+      "new": 3,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -37949,6 +37946,240 @@
             "data": []
           },
           "maxStorageTime": 259200
+        },
+        {
+          "_id": "6997ea3da67cc9b6b47dd350",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1771563581,
+          "templateId": "5bdabfe486f7743e1665df6e 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "6997ea3da67cc9b6b47dd34e",
+            "data": [
+              {
+                "_id": "6997ea3da67cc9b6b47dd351",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd352",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd353",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd354",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd355",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd356",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd357",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd358",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd359",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd35a",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd35b",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd35c",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd35d",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd35e",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd35f",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6997ea3da67cc9b6b47dd360",
+                "_tpl": "67409848d0b2f8eb9b034db9",
+                "parentId": "6997ea3da67cc9b6b47dd34e",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "6997ebc6a67cc9b6b47e501f",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1771563974,
+          "templateId": "5bdabfe486f7743e1665df6e 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "6997ebc6a67cc9b6b47e501d",
+            "data": [
+              {
+                "_id": "6997ebc6a67cc9b6b47e5020",
+                "_tpl": "5ad5db3786f7743568421cce",
+                "parentId": "6997ebc6a67cc9b6b47e501d",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true,
+                  "Key": {
+                    "NumberOfUsages": 0
+                  }
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "6997ebc6a67cc9b6b47e5023",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1771563974,
+          "templateId": "5bdabfe486f7743e1665df6e 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "6997ebc6a67cc9b6b47e5021",
+            "data": [
+              {
+                "_id": "6997ebc6a67cc9b6b47e5024",
+                "_tpl": "61a6444b8c141d68246e2d2f",
+                "parentId": "6997ebc6a67cc9b6b47e5021",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true,
+                  "Key": {
+                    "NumberOfUsages": 0
+                  }
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 259200
         }
       ],
       "_id": "5ac3b934156ae10c4430e83c"
@@ -38520,8 +38751,8 @@
       "_id": "579dc571d53a0658a154fbec"
     },
     "59e7125688a45068a6249071": {
-      "attachmentsNew": 1,
-      "new": 1,
+      "attachmentsNew": 2,
+      "new": 2,
       "type": 7,
       "pinned": false,
       "messages": [
@@ -38749,6 +38980,37 @@
                 "parentId": "69978c6127983e130c62aa87",
                 "slotId": "Helmet_top",
                 "upd": {
+                  "SpawnedInSession": false
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 604800
+        },
+        {
+          "_id": "6997b65b933218ca30b96ae7",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1771550299,
+          "text": "You have received a gift from OnlyOneCannoli",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": [
+              {
+                "_id": "6997b65b933218ca30b96ae8",
+                "_tpl": "69838d597a37b4617140cfc8",
+                "parentId": "664115f68b8ae85875060b39",
+                "slotId": "main",
+                "location": {
+                  "x": 2,
+                  "y": 55,
+                  "rotation": false,
+                  "r": "Horizontal"
+                },
+                "upd": {
+                  "StackObjectsCount": 1,
                   "SpawnedInSession": false
                 }
               }
@@ -39067,6 +39329,33 @@
         "author": "Tyfon",
         "dateAdded": 1771536325,
         "url": "https://github.com/tyfon7/weaponcustomizer"
+      },
+      {
+        "name": "AES",
+        "version": "0.7.9",
+        "author": "Flowless",
+        "dateAdded": 1771614647,
+        "url": "https://github.com/sp-tarkov/server-mod-examples"
+      },
+      {
+        "name": "Content Backport - Prestiges",
+        "version": "1.0.1",
+        "author": "ArchangelWTF",
+        "dateAdded": 1771614647,
+        "url": "https://github.com/ArchangelWTF/ContentBackportPrestiges"
+      },
+      {
+        "name": "KappaMarker",
+        "version": "2.0.0",
+        "author": "Cichaj",
+        "dateAdded": 1771614647,
+        "url": "https://github.com/rafalsoja/KappaMarker"
+      },
+      {
+        "name": "AirFilter Only Drains In Raid",
+        "version": "1.0.0",
+        "author": "Utjan",
+        "dateAdded": 1771614647
       }
     ],
     "receivedGifts": [
@@ -39108,12 +39397,7 @@
     "66bf757f27d0b097db0acea5": {},
     "5a7c2eca46aef81a7ca2145d": {},
     "5ac3b934156ae10c4430e83c": {},
-    "54cb57776803fa99248b456e": {
-      "686e34716c2a18ed6b0eb481": {
-        "count": 4,
-        "purchaseTimestamp": 1771537289
-      }
-    },
+    "54cb57776803fa99248b456e": {},
     "bd3a8b28356d9c6509966546": {}
   },
   "friends": [],
