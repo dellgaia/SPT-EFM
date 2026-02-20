@@ -20761,9 +20761,9 @@
         "Production": {
           "5d5c205bd582a50d042a3c0e": {
             "Products": [],
-            "Progress": 102290,
+            "Progress": 105854,
             "inProgress": true,
-            "StartTimestamp": 1771615151,
+            "StartTimestamp": 1771616339,
             "SkipTime": 0,
             "ProductionTime": 109440,
             "GivenItemsInStart": [],
@@ -20774,7 +20774,7 @@
           },
           "5d5589c1f934db045e6c5492": {
             "Products": [],
-            "Progress": 1859,
+            "Progress": 3047,
             "inProgress": true,
             "StartTimestamp": 1771613294,
             "SkipTime": 0,
@@ -20789,7 +20789,7 @@
           },
           "5d5c1fd4d582a500650132f0": {
             "Products": [],
-            "Progress": 1828,
+            "Progress": 3016,
             "inProgress": true,
             "StartTimestamp": 1771613328,
             "SkipTime": 0,
@@ -20802,7 +20802,7 @@
           },
           "62710a0e436dcc0b9c55f4ec": {
             "Products": [],
-            "Progress": 1830,
+            "Progress": 3018,
             "inProgress": true,
             "StartTimestamp": 1771613321,
             "SkipTime": 0,
@@ -20875,8 +20875,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 31.2277,
-                        "UnitsConsumed": 8.7723
+                        "Value": 30.9665,
+                        "UnitsConsumed": 9.0335
                       }
                     }
                   }
@@ -20942,8 +20942,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 55.318,
-                        "UnitsConsumed": 4.682
+                        "Value": 52.824,
+                        "UnitsConsumed": 7.176
                       }
                     }
                   }
@@ -21932,7 +21932,7 @@
         "HideoutCounters": null,
         "Seed": "a0b03ffdd4df0f1f94621f2212e844f5",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1771615151,
+        "sptUpdateLastRunTimestamp": 1771616339,
         "Customization": {
           "Wall": "675467aa81067119a10938cb",
           "Floor": "675466825b7ebafefd0ebc2c",
